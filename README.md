@@ -1,4 +1,4 @@
-#LeBron vs. Jordan: A New Perspective
+# LeBron vs. Jordan: A New Perspective
 Using statistics to settle the GOAT debate in basketball:
 - Compiled regular season and playoff game-by-game and season-by-season data for basketball legends Michael Jordan and LeBron James from Kaggle and Basketball Reference
 - Conducted permutation testing to assess whether there was statistically significant evidence supporting the
